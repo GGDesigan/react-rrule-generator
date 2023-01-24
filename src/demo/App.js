@@ -78,7 +78,7 @@ class App extends Component {
           <h5><strong>Example handling</strong></h5>
 
           <div className="px-3 pt-3 border rounded">
-            <div className="form-group row d-flex align-items-sm-center">
+            <div className="mb-3 row d-flex align-items-sm-center">
 
               <div className="col-sm-2 text-sm-right">
                 <span className="col-form-label">
@@ -119,7 +119,7 @@ class App extends Component {
         <div className="container mb-5">
           <h5><strong>Config</strong></h5>
           <div className="px-3 pt-3 border rounded">
-            <div className="form-group row d-flex align-items-sm-center">
+            <div className="mb-3 row d-flex align-items-sm-center">
               <div className="col-sm-2 text-sm-right">
                 <span className="col-form-label">
                   <strong>

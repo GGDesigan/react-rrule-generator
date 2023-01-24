@@ -21,7 +21,7 @@ const End = ({
 
   return (
     <div className="px-3">
-      <div className="form-group row">
+      <div className="mb-3 row">
         <div className="col-sm-2 text-sm-right">
           <label
             htmlFor={id}
